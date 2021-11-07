@@ -25,7 +25,7 @@
 📚 Tabela de conteúdos
 =================
 
-<a href="https://github.com/mchjohn/ignite-react-native/tree/main/myskills">
+<a href="https://github.com/mchjohn/challenge-react-native-concepts">
   <p>Chapter I</p>
 </a>
 
