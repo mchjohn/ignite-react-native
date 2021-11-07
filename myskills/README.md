@@ -72,7 +72,7 @@
 <hr>
 <br>
 
-## 🪲 Debug no React Native
+## 🐛 Debug no React Native
 - [Compreendendo a LogBox no React Native](https://www.notion.so/Compreendendo-a-LogBox-no-React-Native-51a06549d9b7464894a2c948babf1616)
 
 - [Exibindo logs com a DevTools](https://www.notion.so/Exibindo-logs-com-a-DevTools-bd0254c8fa7e4d8b89a42717fc9182d5)
