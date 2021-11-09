@@ -59,6 +59,7 @@
 <br>
 
 <div align="center">
+  <hr>
 <a href = "mailto:michel.john@hotmail.com"><img src="https://img.shields.io/badge/-OutLook-%230077B5?style=for-the-badge&logo=Microsoft Outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/micheljohn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://mchjohn.github.io/mchljohn/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%231E1E26?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
