@@ -51,7 +51,7 @@
 
 <br><br>
 
-⭐ Desafios principais
+⭐ Desafios da plataforma
 =================
 <a href="https://github.com/mchjohn/challenge-react-native-concepts">
   <p>⚔️ Desafio: Conceitos do React Native</p>
