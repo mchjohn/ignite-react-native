@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Conteúdos da trilha de React Native do curso Ignite da Rocketseat.
+  Conteúdos da trilha de React Native do curso Bootcamp da Rocketseat.
 </h3>
 
 <hr>
