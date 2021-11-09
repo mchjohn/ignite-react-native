@@ -8,6 +8,8 @@
   Conteúdos da trilha de React Native do curso Ignite da Rocketseat.
 </h3>
 
+<hr>
+
 📚 Tabela de conteúdos
 =================
 
