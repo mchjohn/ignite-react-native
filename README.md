@@ -17,7 +17,7 @@
   <p>Chapter I</p>
 </a>
 
-<a href="#">
+<a href="https://github.com/mchjohn/ignite-react-native/tree/main/chapter-ii">
   <p>Chapter II</p>
 </a>
 
