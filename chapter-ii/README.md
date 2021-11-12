@@ -23,56 +23,95 @@ Neste capítulo é criada uma aplicação completa utilizando React Native, Type
 =================
 <br>
 
-## 📚 Conceitos importantes
+## ⚙️ Ambiente Expo
 
-- [Estrutura de projetos React Native](https://www.notion.so/Estrutura-de-projetos-React-Native-dbbc82c0b53545dab6db4546f619693b)
+- [Introdução ao Expo](https://www.notion.so/Introdu-o-ao-Expo-1edbfeeb00934093afa07393edadb4cc)
 
-- [Dicas sobre a execução no Linux](https://www.notion.so/Dicas-sobre-a-execu-o-no-Linux-800cb3f8dc9c4920a9fcfc0e6b1a061d)
+- [Projeto com Expo Managed x Bare Workflow](https://www.notion.so/Projeto-com-Expo-Managed-x-Bare-Workflow-62be2f7716fc48118a3ddd31c96507fd)
 
-- [Como fazer reload na Aplicação e Fast Refresh](https://www.notion.so/Como-fazer-reload-na-Aplica-o-e-Fast-Refresh-020ab281e27e4b5183874b1fda73e0a4)
-
-- [Estrutura JSX](https://www.notion.so/Estrutura-JSX-d1e893b3e86f4e0d83a6c413743e0589)
-
-- [Utilizando StyleSheet](https://www.notion.so/Utilizando-StyleSheet-66066a64457148dba87dd2f1130fe920)
-
-- [A imutabilidade no React utilizando o useState](https://www.notion.so/A-imutabilidade-no-React-utilizando-o-useState-fc6f5b36d8874c178b9f801d4fc1c59d)
-
-- [Meu primeiro componente customizado](https://www.notion.so/Meu-primeiro-componente-customizado-6121d7820501453a87989b30faaa6283)
-
-- [Propriedades no React Native](https://www.notion.so/Propriedades-no-React-Native-08b530db058d4449a64b4b701d08818e)
-
-- [Scroll View x FlatList](https://www.notion.so/Scroll-View-x-FlatList-65583de1cd1442dfa7421d25154862f5)
-
-- [Introdução aos Hooks com useState](https://www.notion.so/Introdu-o-aos-Hooks-com-useState-1673c9f2c70b4a5b8005f1dccbbe56ba)
-
-- [Continuando com Hooks useEffect](https://www.notion.so/Continuando-com-Hooks-useEffect-e204a59bcf7a49449630f625ab9964f2)
-
-- [Finalizando essa etapa do App](https://www.notion.so/Finalizando-essa-etapa-do-App-3642817f9e97415f9a5e619bbf87b2f8)
+- [Iniciando projeto com o Expo](https://www.notion.so/Iniciando-o-nosso-projeto-com-o-Expo-4609122819da4c5bac271a84a01d90b7)
 
 <hr>
 <br>
 
-## 📜 Utilizando TypeScript 
-- [Adicionando e configurando o TypeScript no App](https://www.notion.so/Adicionando-e-configurando-o-TypeScript-no-App-5bed7454a870460988356b1ea99770bf)
+## 💅 Utilizando Styled-Component 
+- [Conhecendo o Styled-Components](https://www.notion.so/Conhecendo-o-Styled-Components-80bf1ea207974f1dabd9d38a92f9ba77)
 
-- [Tipando objetos e estados](https://www.notion.so/Tipando-objetos-e-estados-563ce4fb01d544c183c650c60c010a03)
+- [Criando Componentes com o Styled-Components](https://www.notion.so/Criando-Componentes-com-o-Styled-Components-6f94c4bca1a04f249aba8f93f9bdce14)
 
-- [Tipando componentes com TypeScript](https://www.notion.so/Tipando-componentes-com-TypeScript-06f34f81f03042ada39ca92f1565ac40)
+- [Criando estilos globais](https://www.notion.so/Criando-estilos-globais-d52871ff51f746e89be1741fb2bb1d3c)
 
-- [Finalizando o nosso App](https://www.notion.so/Finalizando-o-nosso-App-38330740c9bc468cb0611ba070ab5aa7)
+- [Utilizando Fontes Personalizadas](https://www.notion.so/Utilizando-Fontes-Personalizadas-91e8d40388f34729b935f64607e197d1)
+
+- [Densidade de Pixel](https://www.notion.so/Densidade-de-Pixel-48d6d60a8cd743c48b4cb3925b5a14c2)
+
+- [Utilizando proporções em medidas](https://www.notion.so/Utilizando-propor-es-em-medidas-83317f4208cc43f9a831caabf58a7463)
+
+- [Utilizando Ícones](https://www.notion.so/Utilizando-cones-4d414da95ae54c7099277ee67d955c91)
+
+- [Criação dos Cartões de Destaque](https://www.notion.so/Cria-o-dos-Cart-es-de-Destaque-6d67ceb7f2c4449fb494c81683a92bc2)
+
+- [Acessando propriedades no Styled-Components](https://www.notion.so/Acessando-propriedades-no-Styled-Components-667416a822f94a978ac1c6105699eff0)
+
+- [Posicionando os cartões em destaque](https://www.notion.so/Posicionando-os-cart-es-em-destaque-b4fb9e4d744f4bfeb3490eeb19328246)
+
+- [Tipando e acessando propriedades no Styled-Components](https://www.notion.so/Tipando-e-acessando-propriedades-no-Styled-Components-6add12b386d44fb3bed779317ec1d60e)
+
+- [Cartões de Transações](https://www.notion.so/Cart-es-de-Transa-es-e123ce41af6148c1baad7b78ca0f82fc)
+
+- [Utilizando Listas](https://www.notion.so/Utilizando-Listas-976acf1f11154f3b916de2982c5e9fe4)
+
+- [Deixando os cartões de transações dinâmicos](https://www.notion.so/Deixando-os-cart-es-de-transa-es-din-micos-6439cc64d24840579e8600d4a758d40b)
+
+- [Finalizando a listagem de transações](https://www.notion.so/Finalizando-a-listagem-de-transa-es-d23e9e109c05425c92aa6b6d8be2fab5)
 
 <hr>
 <br>
 
-## 🐛 Debug no React Native
-- [Compreendendo a LogBox no React Native](https://www.notion.so/Compreendendo-a-LogBox-no-React-Native-51a06549d9b7464894a2c948babf1616)
+## 📖 Formulários
+- [Componente de Input](https://www.notion.so/Componente-de-Input-1dd7b654070b440d961a2048f6de0415)
 
-- [Exibindo logs com a DevTools](https://www.notion.so/Exibindo-logs-com-a-DevTools-bd0254c8fa7e4d8b89a42717fc9182d5)
+- [Componente de Botão](https://www.notion.so/Componente-de-Bot-o-2da1bdf802eb42c6aca0694f204f7702)
 
-- [Debugando o App](https://www.notion.so/Debugando-o-App-d596c395118e40bdad61e1b2a1d87ed8)
+- [Criando o Componente para selecionar o tipo da transação](https://www.notion.so/Criando-o-Componente-para-selecionar-o-tipo-da-transa-o-3c21536a51ac4896a83abbed03a60d3a)
 
-- [Inspector e Perf Monitor](https://www.notion.so/Inspector-e-Perf-Monitor-8eac83e7141e4ddf8e0911da317c43ad)
+- [Estiliza o da Interface para Selecionar Categoria](https://www.notion.so/Estiliza-o-da-Interface-para-Selecionar-Categoria-fc57bf93536d42829fd2475f97039472)
 
-- [Conhecendo o Dev Docs](https://www.notion.so/Conhecendo-o-Dev-Docs-57c7dc8a100b4236aeaf2ad1038796ea)
+- [Utilizando Modal](https://www.notion.so/Utilizando-Modal-b3ca9165912d49f3be54b901c69d2fe7)
 
-- [Flipper](https://www.notion.so/Flipper-53ff548532e74371b987234879adf155)
+- [Integrando o React-Hook-Form](https://www.notion.so/Integrando-o-React-Hook-Form-e4f41c599a964963b59231a45fe47ffc)
+
+- [Validação de Formulário](https://www.notion.so/Valida-o-de-Formul-rio-7e2427198d344a01b6341cb60111cdcd)
+
+<hr>
+<br>
+
+## 🧭 Navegação
+- [Configurando o React Navigation](https://www.notion.so/Configurando-o-React-Navigation-72a777809d974fb0956881a589fa5f15)
+
+- [Utilizando a TabNavigation](https://www.notion.so/Utilizando-a-Tab-Navigation-2196e6e81ee74f95b400de7b149edc43)
+
+- [Estilizando a TabNavigation](https://www.notion.so/Estilizando-a-Tab-Navigation-d3a4ff567e3e49c09b649242b98b0310)
+
+- [RectButton e BordelessButton](https://www.notion.so/RectButton-e-BordelessButton-68a60c7cbc7b44fdaca9002d599964ad)
+
+- [Tipando o Button](https://www.notion.so/Tipando-o-Button-2b5d640cf8084ee6b2df2af5faa16069)
+
+<hr>
+<br>
+
+## 💾 Async Storage
+- [Em andamento...]()
+
+<hr>
+<br>
+
+## 🌐 Contextos
+- [Em andamento...]()
+
+<hr>
+<br>
+
+## 👥 Login Social
+- [Em andamento...]()
+
