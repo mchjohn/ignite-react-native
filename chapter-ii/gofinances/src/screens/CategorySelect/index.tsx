@@ -5,6 +5,8 @@ import { Button } from '../../components/Form/Button';
 
 import { categories } from '../../utils/categories';
 
+import * as S from './styles';
+
 interface Category {
   key: string;
   name: string;
@@ -15,8 +17,6 @@ interface Props {
   setCategory: (itemcategory: Category) => void;
   closeSelectCategory: () => void;
 }
-
-import * as S from './styles';
 
 export function CategorySelect({
   category,

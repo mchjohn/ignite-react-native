@@ -6,7 +6,7 @@ interface Props {
   type: 'up' | 'down' | 'total';
   title: string;
   amount: string;
-  lastTransition: string;
+  lastTransaction: string;
 }
 
 const icon = {
@@ -19,7 +19,7 @@ export function HighlightCard({
   type,
   title,
   amount,
-  lastTransition,
+  lastTransaction,
 }: Props) {
   return (
     <S.Container type={type}>
@@ -31,7 +31,7 @@ export function HighlightCard({
       <S.Footer>
         <S.Amount type={type}>{amount}</S.Amount>
         <S.LastTransaction type={type}>
-          {lastTransition}
+          {lastTransaction}
         </S.LastTransaction>
       </S.Footer>
     </S.Container>
