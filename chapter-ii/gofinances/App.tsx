@@ -13,9 +13,12 @@ import { NavigationContainer } from '@react-navigation/native';
 import 'intl';
 import 'intl/locale-data/jsonp/pt-BR';
 
+import { AuthProvider } from './src/hooks/auth';
+
 import theme from './src/global/styles/theme';
 
 import { AppRoutes } from './src/routes/app.routes';
+import { SignIn } from './src/screens/SignIn';
 
 export default function App() {
   const [fontsLoaded] = useFonts({
@@ -29,8 +32,11 @@ export default function App() {
   return (
     <ThemeProvider theme={theme}>
       <NavigationContainer>
-        <StatusBar barStyle='light-content' />
-        <AppRoutes />
+        <AuthProvider>
+          <StatusBar barStyle='light-content' />
+          {/* <AppRoutes /> */}
+          <SignIn />
+        </AuthProvider>
       </NavigationContainer>
     </ThemeProvider>
   );
