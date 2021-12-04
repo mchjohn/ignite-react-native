@@ -1,19 +1,21 @@
-import React, { useCallback, useEffect, useState } from 'react';
-import { VictoryPie } from 'victory-native';
-import { useTheme } from 'styled-components'; 
-import { ActivityIndicator } from 'react-native';
-import { addMonths, subMonths, format } from 'date-fns';
-import { ptBR } from 'date-fns/locale';
-import { RFValue } from 'react-native-responsive-fontsize';
-import AsyncStorage from '@react-native-async-storage/async-storage'
+import React, { useCallback, useState } from 'react';
 import { useBottomTabBarHeight } from '@react-navigation/bottom-tabs';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+import { RFValue } from 'react-native-responsive-fontsize';
+import { useFocusEffect } from '@react-navigation/native';
+import { addMonths, subMonths, format } from 'date-fns';
+import { ActivityIndicator } from 'react-native';
+import { useTheme } from 'styled-components'; 
+import { VictoryPie } from 'victory-native';
+import { ptBR } from 'date-fns/locale';
+
+import { useAuth } from '../../hooks/auth';
 
 import { HistoryCard } from '../../components/HistoryCard';
 
 import { categories } from '../../utils/categories';
 
 import * as S from './styles';
-import { useFocusEffect } from '@react-navigation/native';
 
 export interface TransactionData {
   type: 'positive' | 'negative';
@@ -39,6 +41,7 @@ export function Resume() {
   const [totalByCategories, setTotalByCategories] = useState<CategoryData[]>([]);
 
   const theme = useTheme();
+  const { user } = useAuth();
 
   function handleDateChange(action: 'next' | 'prev') {
     if (action === 'next') {
@@ -51,7 +54,7 @@ export function Resume() {
   async function loadData() {
     setIsLoading(true);
 
-    const storageKey = '@gofinance:transaction';
+    const storageKey = `@gofinance:transactions_user:${user.id}`;
 
     const response = await AsyncStorage.getItem(storageKey);
     const responseFormatted = response ? JSON.parse(response) : [];
