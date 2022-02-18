@@ -44,6 +44,14 @@
 <a href="https://github.com/mchjohn/challenge-react-native-concepts">
   <p>⚔️ Desafio: Conceitos do React Native</p>
 </a>
+
+<a href="https://github.com/mchjohn/challenge-savepass">
+  <p>⚔️ Desafio: SavePass</p>
+</a>
+
+<a href="https://github.com/mchjohn/stream-data">
+  <p>⚔️ Desafio: Login Social com Twitch</p>
+</a>
 <br>
 
 <div align="center">

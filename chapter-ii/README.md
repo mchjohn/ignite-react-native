@@ -101,17 +101,44 @@ Neste capítulo é criada uma aplicação completa utilizando React Native, Type
 <br>
 
 ## 💾 Async Storage
-- [Em andamento...]()
+- [Armazenando e recuperando dados](https://www.notion.so/Armazenando-e-recuperando-dados-f5b4cc7ea71f42d08f4fad0a44071569)
+- [Remover dados do AsyncStorage](https://www.notion.so/Remover-dados-do-AsyncStorage-3dec88fbd77f4c4d85878596d2504609)
+- [Salvando novas transações](https://www.notion.so/Salvando-novas-transa-es-ce30d68204414ceab2722ccf3fdffade)
+- [Listando as transações](https://www.notion.so/Listando-as-transa-es-e35a4e3bfa91479d8d43ffb3099f3069)
+- [Finalizando a lista](https://www.notion.so/Finalizando-a-lista-7bd6c385aefb40ac9a9d0065ed082f7d)
+- [Cartões em Destaque](https://www.notion.so/Cart-es-em-Destaque-b7f635e3a87448b890926ed162695f9c)
+- [Lidando com o carregamento Assíncrono](https://www.notion.so/Lidando-com-o-carregamento-Ass-ncrono-240aac8ad74c426ab5a4916f02c4a2f0)
+- [Obtendo a data das Últimas transações](https://www.notion.so/Obtendo-a-data-das-ltimas-transa-es-96e864365de745c6ba610744665aff4d)
+- [Criando a interface do gráfico](https://www.notion.so/Criando-a-interface-do-gr-fico-5b1b89f220ef4671b112d0d18c54c756)
+- [Listando os totais por categoria](https://www.notion.so/Listando-os-totais-por-categoria-58d5b0a9e2c740cabb021686bb065f64)
+- [Renderizando gráfico](https://www.notion.so/Renderizando-Gr-ficos-0e6e2926d1ec44b1b2833015d1a6eb36)
+- [Estilizanodo filtro por mensagens](https://www.notion.so/Estiliza-o-do-filtro-por-m-s-a1ac5d5e151848cdb83df13f8c64fd1c)
+- [Finalizando o filtro](https://www.notion.so/Finalizando-o-filtro-2a0ce3721f76413fa757942cae1448c5)
+- [Finalizando essa etapa do App](https://www.notion.so/Finalizando-essa-etapa-do-App-3f9fb003430748c288bcd334dc92a6f0)
+- [Melhorando o carregamento do gráfico](https://www.notion.so/Melhorando-o-carregamento-do-Gr-fico-dc5b53805fd6466b8f3f0ad5162353a1)
 
 <hr>
 <br>
 
 ## 🌐 Contextos
-- [Em andamento...]()
+- [Introdução a Autenticação e Contextos](https://www.notion.so/Introdu-o-a-Autentica-o-e-Contextos-60d1b489c8f64571add600fe41837b23)
+- [Interface de Autenticação](https://www.notion.so/Interface-de-Autentica-o-147c8d891860453898cac3ebbbe86d3c)
+- [Tipando a importação do Svg](https://www.notion.so/Tipando-a-importa-o-do-Svg-e2ed8760121f451bad229fe7cffe992e)
+- [Botão de Login Social](https://www.notion.so/Bot-o-de-Login-Social-d4c3a2c2fdf04acd973102293288f99e)
+- [Criando Contexto](https://www.notion.so/Criando-Contexto-24d35324f11947adbc89d52a6b82bacf)
+- [Criando o nosso próprio Hook](https://www.notion.so/Criando-o-nosso-pr-prio-Hook-022090c7a1534c5a8bbbaa6bae2e6f89)
 
 <hr>
 <br>
 
 ## 👥 Login Social
-- [Em andamento...]()
+- [Criando as Credenciais do OAuth Google](https://www.notion.so/Criando-as-Credenciais-do-OAuth-Google-7fce8c5fd67d42cc81ca48aa5ae8f9e3)
+- [Conectando com uma Conta Google](https://www.notion.so/Conectando-com-uma-Conta-Google-22046d6a6a1b4ab08554237365fe7a03)
+- [Conectando com uma Conta Apple](https://www.notion.so/Conectando-com-uma-Conta-Apple-7450813888e04fb6859891563514363a)
+- [Definindo as Rotas Privadas e Públicas](https://www.notion.so/Definindo-as-Rotas-Privadas-e-P-blicas-f888cf2fe2f24a8cab71a942bae1e919)
+- [Logout e exibindo dados do usuário](https://www.notion.so/Logout-e-exibindo-dados-do-usu-rio-27d84705bac54ccc9774fd614de56be7)
+- [Load do Login](https://www.notion.so/Load-do-Login-8397da6a81cb4f7c943b534fd951e7ed)
+- [Opções de Autenticação na Plataforma](https://www.notion.so/Op-es-de-Autentica-o-na-Plataforma-6561b1ce8aad4710aeee98595f597c1d)
+- [Vinculando as transações ao usuário](https://www.notion.so/Vinculando-as-transa-es-ao-usu-rio-18ab4dc2a14a46a39cad162e617c1224)
+- [Finalizando a nossa Aplicação](https://www.notion.so/Finalizando-a-nossa-Aplica-o-648841f8eb1c48baaab8027015aad142)
 
