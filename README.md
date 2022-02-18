@@ -21,19 +21,19 @@
   <p>Chapter II</p>
 </a>
 
-<a href="#">
+<a href="https://github.com/mchjohn/ignite-react-native/tree/main/chapter-iii">
   <p>Chapter III</p>
 </a>
 
-<a href="#">
+<a href="https://github.com/mchjohn/ignite-react-native/tree/main/chapter-iv">
   <p>Chapter IV</p>
 </a>
 
-<a href="#">
+<a href="https://github.com/mchjohn/ignite-react-native/tree/main/chapter-v">
   <p>Chapter V</p>
 </a>
 
-<a href="#">
+<a href="https://github.com/mchjohn/ignite-react-native/tree/main/chapter-vi">
   <p>Chapter VI</p>
 </a>
 
